@@ -1,0 +1,61 @@
+================================================================================
+            BOOKMARK MANAGER PRO - BROWSER-ERWEITERUNG INSTALLIEREN
+================================================================================
+
+INSTALLATION IN CHROME / EDGE / BRAVE:
+--------------------------------------
+
+1. Öffne den Browser und gehe zu:
+   - Chrome:  chrome://extensions
+   - Edge:    edge://extensions
+   - Brave:   brave://extensions
+
+2. Aktiviere den "Entwicklermodus" (Schalter oben rechts)
+
+3. Klicke auf "Entpackte Erweiterung laden"
+
+4. Wähle den Ordner:
+   extension/dist
+
+5. Die Erweiterung erscheint jetzt in der Browser-Toolbar
+
+
+ERSTE SCHRITTE:
+---------------
+
+1. Klicke auf das Bookmark Manager Pro Icon in der Toolbar
+
+2. Gehe zu "Einstellungen" und trage deinen Hugging Face API Key ein
+   (für KI-Tag-Generierung)
+
+   Kostenlos erhältlich auf: https://huggingface.co/settings/tokens
+
+3. Fertig! Du kannst jetzt deine Lesezeichen verwalten.
+
+
+FUNKTIONEN:
+-----------
+
+- Alle Browser-Lesezeichen anzeigen und durchsuchen
+- Tags zu Lesezeichen hinzufügen
+- KI-gestützte Tag-Generierung
+- Notizen und "Warum gespeichert?" Feld
+- Tote Links finden und löschen
+- Nach Tags filtern
+
+
+WICHTIG:
+--------
+
+Die Erweiterung nutzt die native Browser-Bookmarks-API.
+Änderungen werden direkt in deinen Browser-Lesezeichen gespeichert.
+
+Tags und Notizen werden im Browser-Speicher (chrome.storage) gespeichert
+und können über Browser-Sync synchronisiert werden.
+
+
+KONTAKT:
+--------
+stefan.buell@buell-hamburg.de
+
+================================================================================
